@@ -1,0 +1,48 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #e8f5e9;
+  color: #2e7d32;
+  padding: 30px;
+}
+.container {
+  max-width: 600px;
+  margin: auto;
+  background-color: #ffffff;
+  border: 2px solid #a5d6a7;
+  border-radius: 8px;
+  padding: 20px;
+}
+h1 {
+  text-align: center;
+  color: #388e3c;
+}
+label {
+  display: block;
+  margin: 10px 0 5px;
+}
+.symptpms-input{
+  display: flex;
+}
+input{
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #a5d6a7;
+  border-radius: 4px;
+}
+button {
+  background-color: #66bb6a;
+  color: white;
+  padding: 0 20px;
+  border: none;
+  margin-top: 10px;
+  cursor: pointer;
+  border-radius: 25px;
+  width: 130px;
+  height: 35px;
+}
+button:hover {
+  background-color: #388e3c;
+}
+#results {
+  margin-top: 20px;
+}

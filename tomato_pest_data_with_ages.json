@@ -1,0 +1,108 @@
+[
+  {
+    "name": "Whitefly",
+    "symptoms": [
+      "chlorotic spots",
+      "yellowing",
+      "leaf curling"
+    ],
+    "management":["Install yellow sticky traps @ 12 /ha","Uproot and destroy the diseased leaf curl plants, Use nitrogen and irrigation judiciously."],
+    "chemical_control":"Use yellow sticky traps at 12/ha to attract and kill insects.",
+    "biological_control":"Remove alternate weed host Abutilon indicum",
+    "natural_enemies": [
+      "Dicyphus hesperus",
+      "lace wings",
+      "fire ants","Mirid bug","Big eyed bugs","Dragonfly","Spider","Robber fly"
+    ],
+    "crop_ages": [30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50],
+    "min_temperature":"20C",
+    "max_temperature":"30C",
+    "min_humidity":"50%",
+    "max_humidity":"80%",
+    "windspeed":"less than 2m/s",
+    "sunshine":"5-8hrs/day",
+    "rainfall":"less than 30mm/week"
+     },
+  {
+     "name":"Red spider Mite",
+     "symptoms":["Affected leaves become reddish brown and bronzy","Severe infestation larvae silken webbing on the leaves, wither and dry","Flower and fruit formation affected"],
+     "management":"Spiromesifen 22.9% SC @ 250 ml in 200 litre of water/acre",
+     "chemical_control":["Spray wettable sulphur 50 WP 2g/lit or dicofol 18.5 EC 2.5 ml/litre","Apply fenzaquin 10% EC @ 500 ml in 200 litre of water/acre"],
+     "biological_control":["Field sanitation, roguing of affected plants","Plant tall border crops such as maize, sorghum etc."],
+     "natural_enemies":["Lady bird beetles","Lacewings","Predatory thrips","Anthocorid bugs or Orius spp.","Mirid bugs","Predatory flies or Syrphid or hover flies"],
+     "crop_ages":[30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50],
+     "min_temperature":"25C",
+     "max_temperature":"35C",
+     "min_humidity":"30%",
+     "max_humidity":"50%",
+     "windspeed":"less than 2m/s",
+     "sunshine":"8-10hrs/day",
+     "rainfall":"less than 20mm/week"
+  },
+  {
+     "name":"Serpentine leaf miner",
+     "symptoms":["Leaves with serpentine mines","Drying and dropping of leaves"],
+     "management":["Collect and destroy mined leaves","Use yellow sticky traps or cards @ 10/acre"],
+     "chemical_control":"Cyantraniliprole 10.26 OD 1.8 ml/lit",
+     "biological_control":["Spray NSKE 5%","Spray Neem Seed Kernel Extract 5 %"],
+     "natural_enemies":["Tetrastichus ovularum","Gronotoma micromorpha","Diglyphus sp.","Opius phaseoli","Chrysocharis sp.","Neochrysocharis formosa etc."],
+     "crop_ages":[30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50],
+     "min_temperature":"18C",
+     "max_temperature":"30C",
+     "min_humidity":"30%",
+     "max_humidity":"50%",
+     "windspeed":"less than 2m/s",
+     "sunshine":"6-9hrs/day",
+     "rainfall":"less than 25mm/week"
+  },
+  {
+      "name":"Tobacco caterpillar",
+      "symptoms":["Young larva scrap leaves on ventral surface","Grownups defoliate crops"],
+      "management":["Field sanitation","Grow castor as trap crop","Collect and destroy egg masses and early instar larvae","Set up pheromone traps @ 12/ha","Plough the soil to expose and kill the pupae","Grow castor along border and irrigation channel as trap crop","Set up light trap @1/ha","Pheromone traps (Pherodin SL) @15/ ha to attract male moths","Collect and destroy egg masses in castor and tomato","Hand pick grown up larvae and kill them","Install pheromone traps @ 4-5/acre or monitoring adult moths activity","Replace the lures with fresh lures after every 2-3 weeks","Setting up of light trap @ 1/acre","Ecological engineering of tomato with growing of ovipositional trap crops such as castor"],
+      "chemical_control":["Poison bait: Rice bran 5 Kg + Molasses or Brown sugar 500g + Carbaryl 50 WP 500g+ 3lit of water/ha, Mix the ingredients well and are kept around the field in the evening hours","Spray chlorpyriphos 20 EC 2 lit/ha or dichlorovos 76 WSC 1 lit/ha"],
+      "biological_control":["Spray SlNPV 1.5 x 1012 POBs/ha","Spray Azadirachtin 1.0 % EC (10000 ppm) 2.0 ml/ lit. or apply Bacillus thuringiensis 2g/lit. during evening hours","Spray Sl NPV @ 1.5 X 1012 POBs / ha+2.5 Kg crude sugar+0.1 % teepol","Erecting of bird perches @ 20/acre for encouraging predatory birds such as king crow, mynah etc.","Release egg parasitoid, Trichogramma pretiosum @ 20,000/acre/week four times"],
+      "natural_enemies":["Chrysoperla carnea","Coccinellids","King crow","Common mynah","Wasp","Dragonfly","Spider,Robber fly","Reduviid bug","Praying mantis","Fire ants","Big eyed bugs or Geocoris sp.","Pentatomid bug or Eocanthecona furcellata","Earwigs ground beetles","Rove beetles"],
+      "crop_ages":[30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50],
+      "min_temperature":"18C",
+      "max_temperature":"35C",
+      "min_humidity":"85%",
+      "max_humidity":"85%",
+      "windspeed":"less than 3m/s",
+      "sunshine":"4-7hrs/day",
+      "rainfall":"30-60mm/week"
+  },
+  {
+    "name":" Tomato Fruit borer",
+    "symptoms":["Young larvae feed on tender foliage","Mature larvae bore circular holes","Thrust only a part of its body into fruit and eat the inner content"],
+    "management":["Collect and destroy the infected fruits and grown up larvae","Grow simultaneously 40 days old American tall marigold and 25 days old tomato seedling at 1:16 rows","Setup pheromone trap with Helilure at 12/ha","Collection and destroy of damaged fruits and grown up caterpillars","Release Trichogramma pretiosum @ 1 lakh/ha at an interval of 7 days starting from flower initiation stage","Spray HaNPV 1.5 x 1012 POBs/ha"],
+    "chemical_control":["Spray with indoxacarb 14.5% SC @ 160- 200 ml in 120-240 l of water/acre","flubendiamide 20% WG @ 40 g in 150-200 l of water/acre","flubendiamide 39.35% M/M SC @ 40 ml in 150-200 l of water/acre","novaluron 10 % EC @ 300 ml in 200-400 l of water/acre","carbaryl 50% WP @ 800 g in 200-400 l of water/acre","chlorantranilioprole 18.5% SC @ 60 ml in 200 l of water/acre","lambda-cyhalothrin 4.9% CS @ 120 ml in 200 l of water/acre "],
+    "biological_control":["Inundatively release T. pretiosum @ 40,000/acre 4-5 times from flower initiation stage at weekly intervals","Spray Ha NPV 0.43% AS @ 600 ml in 160- 240 l of water/acre or Ha NPV 2% AS @ 100-200 ml in 200 l of water/acre in combination with jaggery @ 1 kg in the evening hours at 10-15 days interval on observing the eggs or early instar larvae"],
+    "natural_enemies":["Chrysoperla carnea","Coccinellids","King crow","Common mynah","Trichogramma chilonis","Tetrastichus spp.","Telenomus spp.","Chelonus blackburni","Carcelia spp."],
+    "crop_ages":[71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90],
+    "min_temperature":"17.9C",
+    "max_temperature":"32.9C",
+    "min_humidity":"30.1%",
+    "max_humidity":"72.4%",
+    "windspeed":"less than 3m/s",
+    "sunshine":"5-8hrs/day",
+    "rainfall":"25-50mm/week"
+    },
+  {
+    "name":"Tomato pinworm",
+    "symptoms":["All instars of the larvae damage the plants","Larvae mine in the mesophyll of leaves and make irregular, papery mines","Feeding by the larvae cause damage to leaves, flower buds, flowers, fruits, calyx and stem","Tuta absoluta damage on tomato plants is recognized by the presence of large blotch like mines on leaves with dark frass and pinhead size holes on the developing fruits","In case of serious infestation, leaves dry completely","Damage by larvae invite secondary pathogens at a later stage leading to fruit rot and oozing of inner content"],
+    "management":["Avoid continuous / overlapping cultivation of tomato season after season or year after year in the same place","Avoid use of insect ides that are not recommended for control of T. absoluta","Avoid using phorate in nursery and main field","Avoid indiscriminate use of fungicides, plant growth regulators, spurious pesticides and excessive fertilizers. Excessive use of these chemicals may cause resurgence of T. absoluta"],
+    "chemical_control":"Use of ICAR-NBAIR neem based herbal repellant @ 2.5ml / lit to repel the pest",
+    "biological_control":["Release of Trichogramma acheae/T. pretiosum @ 1,00,000/ha. Total 8-10 releases are recommended","Neem formulation (Azadirachtin1% or5%) @ 2-3 ml/lit."],
+    "natural_enemies":["Nesidiocoris tenuis","Neochrysocharis formosa"],
+    "crop_ages":[71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108.109,110,111,112,113,114,115],
+    "min_temperature":"15.33C",
+    "max_temperature":"32.4C",
+    "min_humidity":"30.1%",
+    "max_humidity":"78.9%",
+    "windspeed":"less than 2m/s",
+    "sunshine":"6-9hrs/day",
+    "rainfall":"less than 30mm/week"
+  }
+  
+
+]

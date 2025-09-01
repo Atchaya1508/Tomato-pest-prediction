@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tomato Pest Prediction</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🌿 Tomato Pest Prediction</h1>
+    <form id="pestForm">
+      <label>Farmer Location(City):</label>
+      <input type="text"id="location"placeholder="e.g.,Trichy"required>
+      <label>Crop Age (in days):</label>
+      <input type="number" id="cropAge" required>
+      <label for="symptoms">Select Demaged Symptoms</label>
+      <div class="symptom-input">
+      <select id="symptoms"style="width:450px;height:50px;">
+        <option>chlorotic spots</option>
+        <option>yellowing</option>
+        <option>leaf curling</option>
+        <option>Affected leaves become reddish brown and bronzy</option>
+        <option>Severe infestation larvae silken webbing on the leaves</option>
+        <option>wither and dry</option>
+        <option>Flower and fruit formation affected</option>
+        <option>Leaves with serpentine mines</option>
+        <option>Drying and dropping of leaves</option>
+        <option>Young larva scrap leaves on ventral surface</option>
+        <option>Grownups defoliate crops</option>
+        <option>Young larvae feed on tender foliage</option>
+        <option>Mature larvae bore circular holes</option>
+        <option>Thrust only a part of its body into fruit and eat the inner content</option>
+        <option>All instars of the larvae damage the plants</option>
+        <option>Larvae mine in the mesophyll of leaves and make irregular, papery mines</option>
+        <option>Feeding by the larvae cause damage to leaves, flower buds, flowers, fruits, calyx and stem</option>
+        <option>Damage by larvae invite secondary pathogens at a later stage leading to fruit rot and oozing of inner content.</option>
+        <option>In case of serious infestation, leaves dry completely</option>
+        <option>big leaf spots with black dirt and small holes in growing tomatoes</option>
+      </select>
+      <!--<label>Symptoms (comma-separated):</label>
+      <input type="text" id="symptoms" placeholder="e.g., yellowing, leaf curling">-->
+      <button type="submit"><b>Predict Pest</b></button>
+      </div>
+    </form>
+  <div id="results"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
